@@ -1,0 +1,2 @@
+# rabbit-email
+email+rabbitmq
